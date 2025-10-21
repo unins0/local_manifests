@@ -4,8 +4,8 @@
   <project name="unins0/hardware_sony" path="hardware/sony" remote="github" revision="fifteen" />
   <project name="unins0/device_sony_pdx206" path="device/sony/pdx206" remote="github" revision="fifteen" />
   <project name="unins0/device_sony_sm8250-common" path="device/sony/sm8250-common" remote="github" revision="fifteen" />
-  <project name="ahnet-69/kernel_sony_sm8250" path="kernel/sony/sm8250" remote="github" revision="sixteen-ksu-back" />
-  <project name="TheMuppets/proprietary_vendor_sony_pdx206" path="vendor/sony/pdx206" remote="github" revision="lineage-22.2" />
-  <project name="unins0/proprietary_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" remote="github" revision="lineage-22.2" />
+  <project name="ahnet-69/kernel_sony_sm8250" path="kernel/sony/sm8250" remote="github" revision="sixteen-ksu" />
+  <project name="ahnet-69/vendor_sony_pdx206" path="vendor/sony/pdx206" remote="github" revision="sixteen" />
+  <project name="unins0/vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" remote="github" revision="fifteen" />
   <project name="yaap/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="fifteen" />
 </manifest>
